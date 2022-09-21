@@ -13,7 +13,7 @@ Architecture, algorithm, problem-solving, technical mentor, communications and p
 
 - 📫 How to reach me:
   - Social Media & Technical Writing Profiles
-    - [Twitter](https://twitter.com/edydkim "My Twitter") | [LinkedIn](https://www.linkedin.com/in/edydkim/ "My LinkedIn") | [Portfolio](https://edydkim.github.io "My portfolio") | [Personal](http://www.app-creative.com)
+    - [Twitter](https://twitter.com/edydkim "My Twitter") | [LinkedIn](https://www.linkedin.com/in/edydkim/ "My LinkedIn") | [Portfolio](https://edydkim.github.io "My portfolio") | [Personal](https://app-creative.com)
 
 
 ## &#x1f4c8; GitHub Stats
