@@ -20,7 +20,7 @@ Architecture, algorithm, problem-solving, technical mentor, communications and p
 
 ## &#x1f4c8; GitHub Stats
 
-![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=edydkim&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![edydkim's github stats](https://github-readme-stats.vercel.app/api?username=edydkim&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edydkim&layout=compact&theme=tokyonight)](https://github.com/edydkim)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=edydkim)
